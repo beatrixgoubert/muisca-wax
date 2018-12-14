@@ -1,0 +1,149 @@
+---
+layout: none
+---
+[
+  {
+    "link": "{{'/muisca/muisca01/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Bogota - Colombia",
+    "label": "Chia ritual, tradition plus police and fireworks",
+    "_date": "",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca01",
+    "thumbnail": "",
+    "lunr_index": 0
+  },
+  {
+    "link": "{{'/muisca/muisca02/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Bogota - Colombia",
+    "label": "Fruit Mandadala at Bolivar Square as part of the Muisa march for territorial rights",
+    "_date": "August 2014",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca02",
+    "thumbnail": "",
+    "lunr_index": 1
+  },
+  {
+    "link": "{{'/muisca/muisca03/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Bogota - Colombia",
+    "label": "Negotiating with the national army to eradicate official document in Ministry of Interior",
+    "_date": "August 2014",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca03",
+    "thumbnail": "",
+    "lunr_index": 2
+  },
+  {
+    "link": "{{'/muisca/muisca04/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Sumapaz - Colombia",
+    "label": "High Anean plateau, sacred site for Muisca ritual",
+    "_date": "August 2013",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca04",
+    "thumbnail": "",
+    "lunr_index": 3
+  },
+  {
+    "link": "{{'/muisca/muisca05/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Bogota - Colombia",
+    "label": "Muisca mochilas by weaver Jorge Yopasa as part of a community event",
+    "_date": "August 2012",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca05",
+    "thumbnail": "",
+    "lunr_index": 4
+  },
+  {
+    "link": "{{'/muisca/muisca06/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Bogota - Colombia",
+    "label": "Muisca girl drinking chichi beverage at a community event",
+    "_date": "August 2012",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca06",
+    "thumbnail": "",
+    "lunr_index": 5
+  },
+  {
+    "link": "{{'/muisca/muisca07/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Manhattan - US",
+    "label": "Muisca authority Henry Neuta during an interview in Morningside Park",
+    "_date": "May 2015",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca07",
+    "thumbnail": "",
+    "lunr_index": 6
+  },
+  {
+    "link": "{{'/muisca/muisca08/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Bogota - Colombia",
+    "label": "Muiscacat",
+    "_date": "July 2015",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca08",
+    "thumbnail": "",
+    "lunr_index": 7
+  },
+  {
+    "link": "{{'/muisca/muisca09/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Sesquile - Colombia",
+    "label": "Ritual ceremony, walking towards Sesquile resguardo territory",
+    "_date": "August 2013",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca09",
+    "thumbnail": "",
+    "lunr_index": 8
+  },
+  {
+    "link": "{{'/muisca/muisca10/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Sesquile - Colombia",
+    "label": "Oldest daughter ready for recording Muisca parade",
+    "_date": "August 2012",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca10",
+    "thumbnail": "",
+    "lunr_index": 9
+  },
+  {
+    "link": "{{'/muisca/muisca11/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Sumapaz - Colombia",
+    "label": "Recording nature sounds for soundscape project",
+    "_date": "August 2013",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca11",
+    "thumbnail": "",
+    "lunr_index": 10
+  },
+  {
+    "link": "{{'/muisca/muisca12/' | absolute_url }}",
+    "collection": "muisca",
+    "location": "Bronx - US",
+    "label": "Youngest daughter definition of project",
+    "_date": "December 2015",
+    "object_type": "photograph",
+    "current_location": "Fieldwork Arhive",
+    "pid": "muisca12",
+    "thumbnail": "",
+    "lunr_index": 11
+  }
+]

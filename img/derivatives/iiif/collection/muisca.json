@@ -1,0 +1,9 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/collection/muisca.json",
+  "@type": "sc:Collection",
+  "label": "muisca"
+}
